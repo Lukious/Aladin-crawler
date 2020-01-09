@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jan  9 15:07:34 2020
-
-@author: Lukious
+Author: Lukious
+Member of BMCL
+e-mail : zhsjzhsj@gmail.com
 """
 
 from bs4 import BeautifulSoup
@@ -55,11 +55,12 @@ def get(max_cout = 1):
         print("Number of images: " + str(count*50))
         count += 1
     else:
-        print("Clawing is Finished")
+        print("Clawling Finished!")
+        
         
 for i in range(10):
     print(str(i) + " : "+categori_book[i][0]+'\n' )
 input_val = int(input("input categori : "))
-print(categori_book[input_val][0]+"book categori.")
+print("Clawling"+categori_book[input_val][0]+" book categori.")
 amount = int(input("Amout of image? : "))
 get(amount/50)
