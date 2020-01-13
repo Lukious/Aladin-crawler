@@ -9,7 +9,7 @@ pip install re
 ```
 
 # Aladin-crawler
-한국 알라딘 서점 [https://www.aladin.co.kr/home/welcome.aspx]에 대한 분류 카테고리 별 책 표지 크롤러
+한국 알라딘 서점 [https://www.aladin.co.kr/home/welcome.aspx] 에 대한 분류 카테고리 별 책 표지 크롤러
 
 Web Crawler for korea online book store aladin
 
