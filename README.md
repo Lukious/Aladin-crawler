@@ -1,7 +1,7 @@
 # Requirements
 
 - beautifulsoup
-- Keras
+- Numpy
 - re [https://www.graphviz.org/]
 ```python
 pip install re
