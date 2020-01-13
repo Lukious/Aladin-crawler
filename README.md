@@ -21,3 +21,6 @@ Execute AladinBookCoverClawer.py (python AladinBookCoverClawer.py), input catego
 <img src="./images/example.png" width="600">
 
 ## Appendix
+Example Dataset
+
+https://github.com/Lukious/BookCoverDataset
